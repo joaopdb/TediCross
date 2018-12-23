@@ -12,7 +12,7 @@ bridges:
   - name: Default bridge
     direction: both
     telegram:
-      chatId: -1001110770633  # Remember that Telegram group and channel IDs are negative. Include the `-` if you are bridging a group or a channel
+      chatId: -211106636  # Remember that Telegram group and channel IDs are negative. Include the `-` if you are bridging a group or a channel
       relayJoinMessages: true
       relayLeaveMessages: true
       sendUsernames: true
