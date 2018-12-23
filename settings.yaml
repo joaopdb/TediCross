@@ -1,12 +1,12 @@
 telegram:
-  token: TELEGRAM_BOT_TOKEN_HERE      # Telegram bot tokens look like this: 113031530:AAH_4c5Gt9gsVu82OVNjUV7poU7PodYiNsA
+  token: 673427571:AAH-cloRb3vAimtFrOolg2cQdxCGwio9O9M      # Telegram bot tokens look like this: 113031530:AAH_4c5Gt9gsVu82OVNjUV7poU7PodYiNsA
   useFirstNameInsteadOfUsername: false
   colonAfterSenderName: false
   skipOldMessages: true
   sendEmojiWithStickers: true
 discord:
   useNickname: false
-  token: DISCORD_BOT_TOKEN_HERE       # Discord bot tokens look like this: MjI3MDA1NzIvOBQ2MzAzMiMz.DRf-aw.N0MVYtDxXYPSQew4g2TPqvQve2c
+  token: NTI2MTk5MzA1MDgyNzY1MzYy.DwBtDg.NaBwRS4qdla3w49HH9dg5MIKHDo       # Discord bot tokens look like this: MjI3MDA1NzIvOBQ2MzAzMiMz.DRf-aw.N0MVYtDxXYPSQew4g2TPqvQve2c
   skipOldMessages: true
 bridges:
   - name: Default bridge
