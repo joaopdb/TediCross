@@ -18,7 +18,7 @@ bridges:
       sendUsernames: true
     discord:
       serverId: '267070171930165258'         # This ID must be wrapped in single quotes. Example: '244791815503347712'
-      channelId: '456309357672398869'       # This ID must be wrapped in single quotes. Example: '244791815503347712'
+      channelId: '526206227370344450'       # This ID must be wrapped in single quotes. Example: '244791815503347712'
       relayJoinMessages: true
       relayLeaveMessages: true
       sendUsernames: true
